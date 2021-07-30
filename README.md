@@ -1,6 +1,7 @@
 # Code-Refractor 
 
 Homework Assignment 1 : Due on July 31st
+Link to asignment: https://lydiawdesign.github.io/Code-Refractor/
 
 GIVEN a webpage meets accessibility standards
 - updated teh html lang to "en-US" to match accessiblity standards
@@ -30,5 +31,4 @@ THEN I find a concise, descriptive title
 
 - updated the title to be more descriptive (to 'Horiseon Homepage')
 
-ASK
-- what other accessibitlity standards other than lang? 
+
